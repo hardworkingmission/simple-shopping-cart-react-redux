@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Asus Vivobook X515MA (20)",
+    "price": 35500,
+    "quantity": 20
+  },
+  {
+    "id": 2,
+    "title": "Dell E1916HV 18.5 Inch (35)",
+    "price": 9300,
+    "quantity": 35
+  },
+  {
+    "id": 3,
+    "title": "Canon Eos 4000D 18MP (72)",
+    "price": 36500,
+    "quantity": 72
+  }
+]
